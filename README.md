@@ -6,7 +6,8 @@ I'm a results-driven DevOps Engineer with a passion for automating and optimizin
 
 ## 🚀 Highlights:
 
-- DevOps Engineer at Sify digital services Ltd
+- DevOps Developer at Merative
+- Past: DevOps Engineer at Sify digital services Ltd
 - AWS Certified Solutions Architect - Associate
 - Strong background in containerization, CI/CD, and cloud infrastructure
 - Passionate about exploring Machine Learning for predictive analytics
