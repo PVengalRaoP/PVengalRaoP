@@ -18,6 +18,6 @@ I have a keen interest in Machine Learning, particularly in its application for 
 
 ## 📫 Let's Connect:
 
-- [LinkedIn](https://www.linkedin.com/in/pindrathi-vengal-rao-660491145/)
+- [LinkedIn](https://www.linkedin.com/in/pvengalrao/)
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or inquiries!
